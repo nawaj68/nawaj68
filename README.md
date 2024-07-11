@@ -8,9 +8,9 @@
        alt="snake" /></a>
 </div> -->
 
-### Hi there I'm Nawaj Shah - [Riyaz][webdevplaylist]👋
-### I am MERN Stack Developer
-### I'm a ❤❤❤ javaScript Lover ❤❤❤
+### Hi there I'm Nawaj Shah - [Nawaj Shah][webdevplaylist]👋
+### I am Dot Net Developer
+### I'm a ❤❤❤ C# Lover ❤❤❤
 
 - 🔭 I’m currently working to develop my skills
 - ⚡ Fun fact: ... I love to travel and learn new things. 
