@@ -8,7 +8,7 @@
        alt="snake" /></a>
 </div> -->
 
-### Hi there I'm Riyaz - [Riyaz][webdevplaylist]👋
+### Hi there I'm Nawaj Shah - [Nawaj Shah][webdevplaylist]👋
 ### I am MERN Stack Developer
 ### I'm a ❤❤❤ javaScript Lover ❤❤❤
 
